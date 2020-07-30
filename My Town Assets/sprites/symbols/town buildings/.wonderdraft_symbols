@@ -1,7 +1,35 @@
 {
-    "Building Clump 01": {
-        "name": "Building Clump 01",
-        "radius": 45,
+    "City Houses 01": {
+        "name": "City Houses 01",
+        "radius": 48,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "City Tower 01": {
+        "name": "City Tower 01",
+        "radius": 48,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "City Wall 01": {
+        "name": "City Wall 01",
+        "radius": 48,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "City Houses 02": {
+        "name": "City Houses 02",
+        "radius": 48,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "City Houses Dogleg": {
+        "name": "City Wall Dogleg",
+        "radius": 48,
         "offset_x": 0,
         "offset_y": 0,
         "draw_mode": "sample_color"
