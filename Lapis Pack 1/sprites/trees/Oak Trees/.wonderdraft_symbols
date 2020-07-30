@@ -1,0 +1,7 @@
+{
+    "name": "Oak Trees",
+    "radius": 55,
+    "offset_x": 0,
+    "offset_y": 0,
+    "draw_mode": "sample_color"
+}

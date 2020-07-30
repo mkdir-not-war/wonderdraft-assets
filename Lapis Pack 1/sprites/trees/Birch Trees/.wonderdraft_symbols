@@ -1,0 +1,7 @@
+{
+    "name": "Birch Trees",
+    "radius": 38,
+    "offset_x": 0,
+    "offset_y": -23,
+    "draw_mode": "normal"
+}

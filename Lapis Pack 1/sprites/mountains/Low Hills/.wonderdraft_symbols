@@ -1,0 +1,7 @@
+{
+    "name": "Low Hills",
+    "radius": 17,
+    "offset_x": 0,
+    "offset_y": 0,
+    "draw_mode": "sample_color"
+}

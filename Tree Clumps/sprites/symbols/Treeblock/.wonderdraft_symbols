@@ -1,0 +1,177 @@
+{
+    "Tree Clump Bottom 01": {
+        "name": "Tree Clump Bottom 01",
+        "radius": 45,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Tree Clump Bottom 02": {
+        "name": "Tree Clump Bottom 02",
+        "radius": 45,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Tree Clump Bottom 03": {
+        "name": "Tree Clump Bottom 03",
+        "radius": 45,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Tree Clump Bottom 04": {
+        "name": "Tree Clump Bottom 04",
+        "radius": 45,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Tree Clump Bottom 05": {
+        "name": "Tree Clump Bottom 05",
+        "radius": 45,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Tree Clump Bottom 06": {
+        "name": "Tree Clump Bottom 06",
+        "radius": 45,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Tree Clump Bottom 07": {
+        "name": "Tree Clump Bottom 07",
+        "radius": 45,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Tree Clump Bottom 08": {
+        "name": "Tree Clump Bottom 08",
+        "radius": 90,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Tree Clump Center 01": {
+        "name": "Tree Clump Center 01",
+        "radius": 45,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Tree Clump Center 02": {
+        "name": "Tree Clump Center 02",
+        "radius": 45,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Tree Clump Side 01": {
+        "name": "Tree Clump Side 01",
+        "radius": 45,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Tree Clump Side 02": {
+        "name": "Tree Clump Side 02",
+        "radius": 45,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Tree Clump Side 03": {
+        "name": "Tree Clump Side 03",
+        "radius": 45,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Tree Clump Side 04": {
+        "name": "Tree Clump Side 04",
+        "radius": 45,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Tree Clump Single 01": {
+        "name": "Tree Clump Single 01",
+        "radius": 45,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Tree Clump Top 01": {
+        "name": "Tree Clump Top 01",
+        "radius": 45,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Tree Clump Top 02": {
+        "name": "Tree Clump Top 02",
+        "radius": 45,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Tree Clump Top 03": {
+        "name": "Tree Clump Top 03",
+        "radius": 45,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Tree Clump Top 04": {
+        "name": "Tree Clump Top 04",
+        "radius": 45,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Tree Clump Top 05": {
+        "name": "Tree Clump Top 05",
+        "radius": 45,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Tree Clump Top 06": {
+        "name": "Tree Clump Top 06",
+        "radius": 45,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Tree Clump Top 07": {
+        "name": "Tree Clump Top 07",
+        "radius": 45,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Tree Clump Bottom 09": {
+        "name": "Tree Clump Bottom 09",
+        "radius": 45,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Tree Clump Bottom 10": {
+        "name": "Tree Clump Bottom 10",
+        "radius": 45,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Tree Clump Center 03": {
+        "name": "Tree Clump Center 03",
+        "radius": 90,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    }
+}

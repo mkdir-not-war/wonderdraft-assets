@@ -1,0 +1,7 @@
+{
+    "name": "Hickory Trees",
+    "radius": 39,
+    "offset_x": 0,
+    "offset_y": -11,
+    "draw_mode": "sample_color"
+}

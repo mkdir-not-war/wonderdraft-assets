@@ -1,0 +1,7 @@
+{
+    "name": "Poplar Trees",
+    "radius": 29,
+    "offset_x": 0,
+    "offset_y": -19,
+    "draw_mode": "sample_color"
+}

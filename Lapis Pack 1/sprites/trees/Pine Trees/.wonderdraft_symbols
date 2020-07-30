@@ -1,0 +1,7 @@
+{
+    "name": "Pine Trees",
+    "radius": 28,
+    "offset_x": 0,
+    "offset_y": -22,
+    "draw_mode": "sample_color"
+}

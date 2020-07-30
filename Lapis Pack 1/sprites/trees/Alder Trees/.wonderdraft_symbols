@@ -1,0 +1,7 @@
+{
+    "name": "Alder Trees",
+    "radius": 40,
+    "offset_x": 0,
+    "offset_y": -11,
+    "draw_mode": "sample_color"
+}
