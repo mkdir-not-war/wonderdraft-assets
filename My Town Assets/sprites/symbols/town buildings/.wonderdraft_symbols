@@ -33,5 +33,26 @@
         "offset_x": 0,
         "offset_y": 0,
         "draw_mode": "sample_color"
+    },
+    "City House Long 01": {
+        "name": "City House Long 01",
+        "radius": 48,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "City Houses Corner 01": {
+        "name": "City Houses Corner 01",
+        "radius": 48,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "City Houses Corner 02": {
+        "name": "City Houses Corner 02",
+        "radius": 48,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
     }
 }
