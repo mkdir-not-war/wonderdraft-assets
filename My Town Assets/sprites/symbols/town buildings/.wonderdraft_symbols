@@ -54,5 +54,19 @@
         "offset_x": 0,
         "offset_y": 0,
         "draw_mode": "sample_color"
+    },
+    "City Manor 01": {
+        "name": "City Manor 01",
+        "radius": 48,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "City Wall Gate 01": {
+        "name": "City Wall Gate 01",
+        "radius": 48,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
     }
 }
